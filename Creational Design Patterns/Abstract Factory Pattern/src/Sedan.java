@@ -3,7 +3,7 @@ public class Sedan implements  ICar{
     String color;
     @Override
     public void getConfiguration() {
-        System.out.println("This is an american car");
+        System.out.println("This is a Sedan");
     }
     @Override
     public String getColor() {
